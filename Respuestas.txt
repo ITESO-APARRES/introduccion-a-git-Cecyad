@@ -10,5 +10,12 @@ en el historial de commits.
 git log –pretty=oneline, -Se utiliza para mostrar la clave y el nombre de cada commit en
 una unica linea.
 
+¿Cómo modifica la salida del status el comando git status -s? 
+Solo muestra en una linea el status de cada documento.
+
+Ejecutamos el comando git diff y obsevamos la salida. ¿Cómo se pueden leer las salidas de los diff? 
+Proporciona las lineas de texto que se han modificado desde el ultimo commit que se 
+le realizo a cada archivo.
+
 
 
