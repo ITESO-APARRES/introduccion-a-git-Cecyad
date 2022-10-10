@@ -1,1 +1,14 @@
 Respuestas Tarea #1
+
+¿Qué información no regreso el comando git log?
+El historial de coomits
+
+Cómo se modifica la salida con el comando git log –pretty=reference 
+y con el comando git log –pretty=oneline?
+git log –-pretty=reference, -Se utiliza para obtener solo la clave, nombre y fecha
+en el historial de commits.
+git log –pretty=oneline, -Se utiliza para mostrar la clave y el nombre de cada commit en
+una unica linea.
+
+
+
