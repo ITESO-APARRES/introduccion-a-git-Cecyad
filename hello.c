@@ -1,3 +1,11 @@
+/*
+Estamos realizando nuevas modificaciones
+al archivo hello.c que utilizamos para
+ejercicos basicos de git
+
+*/
+
+
 #include <stdio.h>
 
 int main(void){
