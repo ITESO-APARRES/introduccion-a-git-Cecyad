@@ -6,3 +6,7 @@ int main(void){
 }
 
 printf{"Agregamos una modificacion"}
+
+void decirHola(char* nombre){
+    printf("Hola %s, ¿como estas?", nombre);
+}
